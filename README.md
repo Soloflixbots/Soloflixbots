@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm **Rimuru Wine**, a passionate developer who lo
 I like to follow developers with great ideas but few followers — supporting hidden gems in the coding world. 💎
 
 <p align="center">
-<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
+<img src="https://graph.org/file/aa9da1a841d1a507d8f87-98cc1315bca7c068ce.jpg">
 </p>
 
 <br>
@@ -35,8 +35,6 @@ I like to follow developers with great ideas but few followers — supporting hi
 ## 🔥 My Recent Projects
 
 [![File Store](https://github-readme-stats.vercel.app/api/pin?username=Soloflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Soloflix-bots/filestore)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Soloflix-bots&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Soloflix-bots/github-readme-stats)
 
 ---
 
