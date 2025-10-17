@@ -35,9 +35,6 @@ I like to follow developers with great ideas but few followers — supporting hi
 ## 🔥 My Recent Projects
 
 [![File Store](https://github-readme-stats.vercel.app/api/pin?username=Soloflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Soloflix-bots/filestore)
-[![AutoRename](https://github-readme-stats.vercel.app/api/pin?username=Soloflix-bots&theme=github_dark&hide_border=true&repo=auto-rename-bot)](https://github.com/Soloflix-bots/auto-rename-bot)
-[![Links Share Bot](https://github-readme-stats.vercel.app/api/pin?username=Soloflix-bots&theme=github_dark&hide_border=true&repo=Links-Share-Bot)](https://github.com/Soloflix-bots/Links-Share-Bot)
-[![Premium Plans](https://github-readme-stats.vercel.app/api/pin?username=Soloflix-bots&theme=github_dark&hide_border=true&repo=Premium-Plans)](https://github.com/Soloflix-bots/Premium-Plans)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Soloflix-bots&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Soloflix-bots/github-readme-stats)
 
