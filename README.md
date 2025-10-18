@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm **Rimuru Wine**, a passionate developer who lo
 I like to follow developers with great ideas but few followers — supporting hidden gems in the coding world. 💎
 
 <p align="center">
-<img src="https://graph.org/file/aa9da1a841d1a507d8f87-98cc1315bca7c068ce.jpg">
+<img src="">
 </p>
 
 <br>
@@ -51,7 +51,7 @@ If you have something creative in mind, let’s build something amazing together
 
 You can connect with me here:
 
-- [![telegram](https://img.shields.io/badge/Rimuru_Wine-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/cosmic_freak)
+- [![telegram](https://img.shields.io/badge/Rimuru_Wine-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Rimuru_Wine)
 - [![gmail](https://img.shields.io/badge/Soloflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:soloflix.bots@gmail.com)
 
 <br>
